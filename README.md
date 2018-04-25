@@ -4,12 +4,14 @@ A list of community hackathon projects and other experiments.
 ## How It Works
 Have you recently attended a hackathon and created a new project using uPort's self-sovereign identity platform? Awesome! 
 
-uPort will even pay you (DAI stable tokens) to share your work with other developers. Make a pull request with the project details, write an article and/or record a video of the projec. Share the with the world how you're using self-sovereign identity systems in a decentralized application.
+uPort will even pay you (DAI stable tokens) to share your work with other developers. Make a pull request with the project details, so the rest of the world can see what you're building. Plus, write an article or record a video of the project and we'll payout an additional 15 DAI.
+
+TL;DR Share the with the world how you're using self-sovereign identity and get paid doing it. 
 
 uPort will send you DAI stable tokens upon approval of the pull request using Gitcoin's Tip Tool https://gitcoin.co/tip 
 
 ### Submit a Project - Earn 5 DAI
-Earn 5 DAI by creating a pull request and adding the project to the `hackathon-projects`: hackathon, project name, description, links and credits.
+Earn 5 DAI by creating a pull request and adding the project to the `hackathon-projects`: hackathon, project name, description, links (github, devpost, medium, youtube, etc...) and project author credits.
 
 #### Requirements
 1. Submit a Pull Request with hackathon, name of project, description and github (devpost) links.
@@ -29,6 +31,8 @@ Earn 15 DAI by recording a video explaining the hackathon project: who, what, wh
 1. Record a video demonstrating the project. Minimum 4 minutes. Must include explanation of project.
 2. Explain why uPort was included in the decentralized application
 3. Submit a Pull Request with the name of project, description, github (devpost) and link to YouTube video.
+
+We suggest using https://www.useloom.com to record a screencast quickly and easily.
 
 ## EthDenver
 https://ethdenver.com/
